@@ -18,7 +18,7 @@ Flutterで棒グラフと折れ線グラフを組み合わせた「複合グラ�
 
 | graphic | fl_chart | syncfusion_flutter_charts |
 | :---: | :---: | :---: |
-| <img src="docs/graphic.png" alt="graphic" width="800"/> | <img src="docs/fl_chart.png" alt="fl_chart" width="800"/> | <img src="docs/syncfusion.png" alt="syncfusion_flutter_charts" width="800"/> |
+| <img src="docs/graphic.png" alt="graphic" width="800"/> | <img src="docs/fl_chart.png" alt="fl_chart" width="800"/> | <img src="docs/syncfusion.png" alt="syncfusion_flutter_charts" width="550"/> |
 
 
 
